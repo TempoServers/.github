@@ -1,6 +1,6 @@
 # Tempo Enterprises
 
-Página web: https://tempo.enterprises/about - Discord: https://tempo.enterprises/discord-community
+Página web: https://about.tempo.enterprises/ - Discord: https://tempo.enterprises/discord-community
 
 Conoce nuestros principios al desarrollar la próxima generación de servidores multijugadores en español.
 
