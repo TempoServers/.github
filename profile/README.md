@@ -1,4 +1,4 @@
-# Bienvenido a Tempo Enterprises - Innovating by design
+# Tempo Enterprises
 
 Página web: https://tempo.enterprises/about - Discord: https://tempo.enterprises/discord-community
 
